@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card{
+    border-radius: 10px !important;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+    margin: 50px auto;
+    padding-bottom: 50px;
+}
+
+.logo-card{
+    padding: 20px 500px;
+}

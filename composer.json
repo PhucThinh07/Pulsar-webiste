@@ -1,0 +1,17 @@
+{
+    "name": "app/thinhtlp",
+    "autoload": {
+        "psr-4": {
+            "App\\": "web/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TranLePhucThinh PC04491"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.8",
+        "nikic/fast-route": "^1.3"
+    }
+}
